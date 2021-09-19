@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Table
+  - Dialog
+  - Buyer
+  - Shop
+  - Product
+  - Slot
+  - Items
+  - Badge
+  - NoBadge
+  - BadgeSlot
+  - Good
+  - Bad
+  - MyCanvas
+  - BuyerDialog
+  - OkBadge
+  - SellerDialog
+  - Sum
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Reaction
+  - Water
+  - UI
+  - Floor
+  - Icon
+  - Slot
+  - Client
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 348162277
+    locked: 0
+  - name: FG
+    uniqueID: 3400541909
+    locked: 0
+  - name: Table
+    uniqueID: 2639544827
+    locked: 0
+  - name: Entrance
+    uniqueID: 2176719373
+    locked: 0
+  - name: Players
+    uniqueID: 3067890113
+    locked: 0
